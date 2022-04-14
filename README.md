@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# BONES
+A plugin that does 2 things. Makes a noise when bones appear on the ground and state in the chat box that bones have appeared. Why? that's a good question...
